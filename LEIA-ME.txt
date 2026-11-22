@@ -1,0 +1,5 @@
+1) Instale o Android Studio (gratis).
+2) File > Open > escolha esta pasta MogChad.
+3) Aguarde o Gradle sincronizar.
+4) Build > Build Bundle(s)/APK(s) > Build APK(s).
+5) O APK fica em app/build/outputs/apk/debug/app-debug.apk
